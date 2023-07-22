@@ -6,7 +6,7 @@ Tech Stack Used : Python .
 Code Editor : Jupiter and Google Colab .
 
 
-This project is about creating a machine learning model that can predict the house value based on the given dataset.
+This project is about creating a machine learning model that can predict the house value based on the given dataset and the dataset is fetched from Kaagle website , so we need not to import dataset manually .
 
 
 We use different types of Machine Learning algorithms such as linear regression , decision tree and random forest algorithms to train the model.
